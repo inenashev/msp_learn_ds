@@ -1,2 +1,8 @@
 .DS_Store
 
+
+.ipynb_checkpoints/
+
+msp_classifier_new.ipynb
+
+msp_classifier.ipynb
